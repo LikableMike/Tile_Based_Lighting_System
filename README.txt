@@ -6,3 +6,4 @@ The point light is just a very large gradient light to fake sunlight when above 
 
 The MapShadows sprite has the Shadow.gdshader attached to its material.
 
+the Chunkloaderscript is attached to the chunkLoader node
